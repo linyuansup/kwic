@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"Cupertino",
+			"datasources",
+			"Fluttertoast",
+			"kwic",
+			"nosql",
+			"oktoast",
+			"r'upsert",
+			"riverpod",
+			"sqlserver",
+			"sslmode",
+			"sublist",
+			"textbar",
+			"upsert",
+			"writeln"
+		]
+	}
+}
